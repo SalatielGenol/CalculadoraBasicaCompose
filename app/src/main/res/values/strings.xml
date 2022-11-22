@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalculadoraComposeBasica</string>
+    <string name="title_activity_calculator_button">calculatorButton</string>
+</resources>
